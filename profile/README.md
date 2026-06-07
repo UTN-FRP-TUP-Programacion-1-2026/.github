@@ -1,5 +1,16 @@
 # 👋 UTN - FRP - TUP - Programación 1 - 2026
 
+
+<p align="center">
+  <a href="https://www.youtube.com/playlist?list=PLNaY5TLWzvha7FGLY0qgv4F3V85-7eORr">
+    <img src="https://img.shields.io/badge/YouTube-Programaci%C3%B3n1--2026-red?logo=youtube&logoColor=white"/>
+  </a>
+  <br/>
+  <a href="https://www.twitch.tv/fernandofilipuzziutn">
+    <img src="https://img.shields.io/badge/Twitch-Programaci%C3%B3n1--2026-purple?logo=twitch&logoColor=white"/>
+  </a>
+</p>
+
 ---
 
 <div align="center">
